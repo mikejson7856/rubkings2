@@ -1,2 +1,2 @@
 export const API_URL='https://meetbackend-three.vercel.app';
-export const SITE='rubrakings.vercel.app'
+export const SITE='rubkings-pay.vercel.app'
